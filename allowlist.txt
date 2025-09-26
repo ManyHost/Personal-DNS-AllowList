@@ -1,0 +1,2 @@
+## DNS ALLOWLIST
+^.*\.thepiratebay3\.co$
